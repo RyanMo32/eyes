@@ -1,4 +1,4 @@
-# eyes
+# Wandering Eyes
 ## CSS, HTML and Javascript exercise with eyes, watch them follow you around the room!
 
 ## How to Use
